@@ -1,0 +1,11 @@
+kapasitas gelas A=1000L
+	  gelas B=700L
+	  gelas C=300L
+	  gelas D=100L
+ada lubang ditengah tengah setiap gelas A, B, dan C
+dari gelas A ke b mengalir sebanyak 500 dengan sisa 500 L di gelas A
+
+dari gelas b ke c mengalir sebanyak 150 dengan sisa 350 L di gelas B
+
+dari gelas c ke d mengalir sebanyak 0 karena setengah kapasitas dari gelas c adalah 150
+sementara air yang diterima dari gelas B hanyalah 150 L saja       
